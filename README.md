@@ -27,7 +27,7 @@ I am a Full Stack Software Engineer <img src="https://media.giphy.com/media/WUlp
 
 - :zap: In my free time, I solve problems on Leetcode and GeeksforGeeks.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Chaste-sauveur-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Chaste-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
   ### :hammer_and_wrench: Languages and Tools :
 
